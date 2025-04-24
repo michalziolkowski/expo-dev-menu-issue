@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "expo-dev-menu-issue",
+    "slug": "expo-dev-menu-issue",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "expo-dev-menu-issue",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "bundleIdentifier": "com.expo-dev-menu-issue"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "48d7ad77-313b-44ef-88ec-099e71176539"
+      }
+    }
+  }
+}
